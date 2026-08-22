@@ -1,7 +1,33 @@
 #title {    
-    font-size: 2em;
-    color: #01a8fc;
+/* Ocean Research Station */
+
+width: 643px;
+height: 60px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 800;
+font-size: 60px;
+line-height: 60px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -3px;
+
+color: #EBF3FF;
+margin: 0 auto;
+
+}
+#header {
+    background-color: #009dff;
+    padding-top: 174px;
+    padding-bottom: 174px;
     text-align: center;
-    margin-top: 20px;
-font-family: 'comic sans ms', cursive;
+}
+#paragraph1 {
+    background-color: #009dff;
+    padding-top: 20px;
+   /* padding-bottom: 174px;*/
+    text-align: center;
 }
