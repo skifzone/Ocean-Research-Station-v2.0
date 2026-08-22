@@ -27,7 +27,7 @@ margin: 0 auto;
 }
 #paragraph1 {
     background-color: #009dff;
-    padding-top: 20px;
-   /* padding-bottom: 174px;*/
+  /*  padding-top: 174px; */
+    padding-bottom: 180px;
     text-align: center;
 }
